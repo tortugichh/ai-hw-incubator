@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.env/
+.venv/
+venv/
+ENV/
+env/
+
+# Environment variables
+.env
+
+# VS Code
+.vscode/
+
+# Jupyter Notebook checkpoints
+
+.ipynb_checkpoints/
+
+# Data and output files
+*.pdf
+*.json
+exam_notes.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Misc
+*.log
